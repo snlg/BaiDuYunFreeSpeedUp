@@ -1,0 +1,2 @@
+# BaiDuYunFreeSpeedUp
+基于Aria2+chrome浏览器插件的mac百度云限速破解方案
